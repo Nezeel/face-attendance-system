@@ -1,0 +1,18 @@
+# Ignore dlib folder (because it's huge and has its own git repo)
+dlib/
+
+# Ignore build/dist files
+dist/
+build/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore other generated files
+*.pkl
+*.so
+*.pyd
+*.dll
+*.app
+
