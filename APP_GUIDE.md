@@ -1,4 +1,4 @@
-# Face Attendance System – App Guide d
+# Face Attendance System – App Guide
 
 Your **Face Attendance System** standalone application is ready to use. This guide walks you through launching, using, and troubleshooting the app.
 
