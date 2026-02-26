@@ -1,7 +1,7 @@
 ## 🏗️ Build & Deployment Information
 
 This section explains how the standalone macOS app bundle is created, verified, and distributed.
-
+d
 ---
 
 ### ✅ What Was Fixed
