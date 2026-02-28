@@ -113,3 +113,4 @@ codesign -s - dist/'Face Attendance System.app'
 3. **DMG Package:** Create a `.dmg` installer for easier installation
 4. **Auto-updates:** Integrate Sparkle framework for automatic updates
 5. **Dashboard:** Add analytics and reporting features
+
